@@ -1,4 +1,4 @@
-# back up
+# Back up
 With this program, you can copy your files and folders from one directory and save them in another directory with zero size!.
 
 If you need to back up the names of your files and you care about folders and you don't want to spend a lot of time copying the contents of the files, you can use this software.
